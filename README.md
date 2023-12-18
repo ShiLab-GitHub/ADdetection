@@ -1,4 +1,5 @@
-# Alzheimer’s disease Early screening and Staged Detection with Plasma proteome using Machine Learning and Convolutional Neural Network
+# ADdetection
+Alzheimer’s disease Early screening and Staged Detection with Plasma proteome using Machine Learning and Convolutional Neural Network
 
 # Usage
 source code and data of AD detection with Longitudinal protein panel is in folder Longitudinal Protein Panel.
