@@ -1,5 +1,5 @@
 # ADdetection
-This repository archives the datasets and Python scripts employed in the study described in the paper: [Alzheimer’s disease Early screening and Staged Detection with Plasma proteome using Machine Learning and Convolutional Neural Network](https://doi.org/10.1111/ejn.16392). The published article is freely available via the link.
+This repository archives the datasets and Python scripts employed in the study described in the paper: [Alzheimer’s disease Early screening and Staged Detection with Plasma proteome using Machine Learning and Convolutional Neural Network](https://doi.org/10.1111/ejn.16392). The published article is freely available via [the link](https://onlinelibrary.wiley.com/share/author/WWSC6NY3DJBV637TFZJW?target=10.1111/ejn.16392).
 
 # Usage
 source code and data of AD detection with Longitudinal protein panel is in folder Longitudinal Protein Panel.
